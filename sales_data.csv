@@ -1,0 +1,31 @@
+Order_ID,Order_Date,Product,Category,City,Quantity,Unit_Price,Discount
+ORD1001,2026-01-03,Laptop,Electronics,Hyderabad,2,55000,5000
+ORD1002,2026-01-05,Mobile,Electronics,Bengaluru,3,20000,2500
+ORD1003,2026-01-08,Office Chair,Furniture,Chennai,4,6500,1800
+ORD1004,2026-01-12,Keyboard,Accessories,Mumbai,10,1500,500
+ORD1005,2026-01-15,Monitor,Electronics,Hyderabad,2,12000,1200
+ORD1006,2026-02-02,Laptop,Electronics,Pune,1,56000,4500
+ORD1007,2026-02-06,Mouse,Accessories,Bengaluru,12,800,300
+ORD1008,2026-02-11,Desk,Furniture,Chennai,2,9500,2000
+ORD1009,2026-02-18,Mobile,Electronics,Mumbai,4,19500,2200
+ORD1010,2026-02-22,Headphones,Accessories,Hyderabad,5,2500,700
+ORD1011,2026-03-01,Monitor,Electronics,Pune,3,11800,1000
+ORD1012,2026-03-04,Office Chair,Furniture,Bengaluru,3,6700,1500
+ORD1013,2026-03-09,Laptop,Electronics,Chennai,2,54000,5200
+ORD1014,2026-03-14,Keyboard,Accessories,Mumbai,8,1600,450
+ORD1015,2026-03-20,Mobile,Electronics,Hyderabad,5,20500,2800
+ORD1016,2026-04-02,Desk,Furniture,Pune,3,9200,1800
+ORD1017,2026-04-07,Mouse,Accessories,Chennai,15,750,250
+ORD1018,2026-04-12,Laptop,Electronics,Bengaluru,1,57000,5000
+ORD1019,2026-04-18,Headphones,Accessories,Mumbai,7,2400,600
+ORD1020,2026-04-25,Monitor,Electronics,Hyderabad,4,12100,1300
+ORD1021,2026-05-03,Mobile,Electronics,Pune,3,19800,2100
+ORD1022,2026-05-08,Office Chair,Furniture,Mumbai,5,6400,1700
+ORD1023,2026-05-13,Keyboard,Accessories,Bengaluru,9,1550,400
+ORD1024,2026-05-21,Laptop,Electronics,Hyderabad,2,55500,4800
+ORD1025,2026-06-02,Desk,Furniture,Chennai,4,9700,2200
+ORD1026,2026-06-06,Mouse,Accessories,Pune,20,780,350
+ORD1027,2026-06-11,Mobile,Electronics,Bengaluru,2,20200,2300
+ORD1028,2026-06-17,Headphones,Accessories,Hyderabad,6,2600,650
+ORD1029,2026-06-23,Monitor,Electronics,Mumbai,3,11900,1100
+ORD1030,2026-06-28,Office Chair,Furniture,Pune,2,6600,1600
